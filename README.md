@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dulmiw" alt="dulmiw" /></a> </p>
 
-- 🌱 I’m currently learning **Information Technology **
+- 🌱 I’m currently learning **Information Technology**
 
 - 📫 How to reach me **dulmiwitharana@gmail.com**
 
